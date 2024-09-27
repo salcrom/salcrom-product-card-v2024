@@ -39,9 +39,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "salcrom-product-card",
+  "name": "salcrom-product-card-v2024",
   "author": "Sergio Alcántara Romero",
-  "module": "dist/salcrom-product-card.esm.js",
+  "module": "dist/salcrom-product-card-v2024.esm.js",
   "size-limit": [
     {
       "path": "dist/salcrom-product-card.cjs.production.min.js",
